@@ -1,0 +1,6 @@
+mariadbcrud\dao\ConnectionFactory.class
+mariadbcrud\dao\UserDao.class
+mariadbcrud\model\ConnectionInfo.class
+mariadbcrud\model\Client.class
+mariadbcrud\dao\Dao.class
+mariadbcrud\model\User.class
