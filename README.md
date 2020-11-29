@@ -26,6 +26,6 @@ SELECT DES_DECRYPT(DES_ENCRYPT('segredo@#345','fatec'),'fatec');
 ```
 
 
-- [x] *Resultado esperado* 🏁
+ *Resultado via console* 💻
 
 ![alt text](https://github.com/rochaeduardo/CRUD-POO-TESI/blob/main/saida-console.png)
